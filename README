@@ -1,0 +1,5 @@
+#You need to create a folder to store both train and test data images.
+#Create a DATA folder and inside create 2 other folders TRAIN and TEST
+#In TRAIN and TEST folders you can store images of your liking to be used for training and to test your model.
+#You can find many such images on Kaggle
+#MAKE SURE to store DATA folder on the same location as other downloaded files of this project
